@@ -1,5 +1,7 @@
-In package.json ->
-package:^1.2.3 version (major.minor.patch)
+**package.json**
+
+**package:^1.2.3 version (major.minor.patch)**
+
     3 -> indicates a patch which has some bug fixes
     2 -> indicates there are some new features in the package but the code will not break even it is updated to some higher minor version
     1 -> indicates a major release, will break the code.
